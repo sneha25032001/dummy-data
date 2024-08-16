@@ -1,0 +1,85 @@
+{
+  "github_url": "",
+  "vercel_api": "",
+  "projects_url": "https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
+  "send_email_api": "https://send-email-api-taupe.vercel.app/",
+  "otp_endpoint": "send-email",
+  "featured_endpoint": "send-featured-email",
+  "get_featured_endpoint": "featured-info",
+  "update_email_sheet": "https://script.google.com/macros/s/AKfycbx91LVKx48a439GpED4JmMz-w9XQ99jNKwM77hG8HRJItrGWJbFbESCnSdto23neY8WGA/exec",
+  "otp_sign_in_enabled": true,
+  "latest_version": 1,
+  "mandatory": true,
+  "flag": 0,
+  "feedback": {
+    "msg": "",
+    "url": "",
+    "options": [],
+    "url_text": ""
+  },
+  "msg": "",
+  "download_url": "",
+  "options": [],
+  "app_url": "",
+  "app_name": "App Template",
+  "release_features": [],
+  "gmail": "dummy@gmail.com",
+  "downTimeAlert": {
+    "showDownTimeAlert": false,
+    "heading": "Notice",
+    "subheading": "App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Please report to us",
+      "subject": "App is down for maintenance",
+      "body": "",
+      "email": "dummy@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    }
+  },
+  "apiFailAlert": {
+    "heading": "Notice",
+    "subheading": "There is some technical issue. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Report to us",
+      "subject": "App is unable to fetch data",
+      "body": "",
+      "email": "dummy@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    }
+  },
+  "updateAlert": {
+    "heading": "Update",
+    "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
+    "showMailBox": false,
+    "mailBox": {},
+    "showList": false,
+    "list": []
+  },
+  "rateAlert": {
+    "heading": "Rate Us",
+    "subheading": "Your rating empowers us to create a better app tailored to your needs. Share your thoughts now and be a part of the journey!",
+    "showMailBox": false,
+    "mailBox": {}
+  },
+  "messageAlert": {
+    "showMessageAlert": false,
+    "heading": "Message",
+    "subheading": "We have a new app check it out now",
+    "showMailBox": false,
+    "mailBox": {},
+    "showUrl": true,
+    "urlData": {
+      "url": "",
+      "text": ""
+    }
+  },
+  "carousel": {
+    "showCarousel": false,
+    "banners": []
+  },
+  "showTestimonials": false
+}
