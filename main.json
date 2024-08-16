@@ -62,8 +62,8 @@
   "rateAlert": {
     "heading": "Rate Us",
     "subheading": "Your rating empowers us to create a better app tailored to your needs. Share your thoughts now and be a part of the journey!",
-    "showMailBox": false,
-    "mailBox": {}
+    "mailBoxPlaceholder": "Please share your feedback",
+    "mailSubject": "Feedback for Dummy App"
   },
   "messageAlert": {
     "showMessageAlert": false,
